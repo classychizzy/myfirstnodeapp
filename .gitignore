@@ -1,0 +1,4 @@
+// let's store environment variables here
+.env
+//node modules is also stored here to prevent duplication
+node_modules
