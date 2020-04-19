@@ -1,0 +1,27 @@
+{
+  "name": "myfirstnodeproject",
+  "version": "1.0.0",
+  "description": "a node app similiar to medium, based on thinksters tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/classychizzy/myfirstnodeapp.git"
+  },
+  "keywords": [
+    "nodejs",
+    "application",
+    "medium"
+  ],
+  "author": "chizoba chukwuoma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/classychizzy/myfirstnodeapp/issues"
+  },
+  "homepage": "https://github.com/classychizzy/myfirstnodeapp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
