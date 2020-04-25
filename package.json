@@ -4,6 +4,7 @@
   "description": "a node app similiar to medium, based on thinksters tutorial",
   "main": "app.js",
   "scripts": {
+    "dev":"nodemon ./app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
